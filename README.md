@@ -92,6 +92,7 @@ Chaque métier a son fichier : on change ce qui rapporte, l'XP, l'argent, les mi
 | **Facultatif** | Vault, pour partager l'argent avec les autres plugins |
 
 **Va plus loin avec les autres plugins Snk** (facultatifs) :
+- **[SnkQuetes](https://github.com/SnkStudio/SnkQuetes)** : des défis et des quêtes qui donnent de l'XP de métier
 - **[SnkPNJ](https://github.com/SnkStudio/SnkPNJ)** : un maître des métiers à qui parler
 - **[SnkInterface](https://github.com/SnkStudio/SnkInterface)** : le niveau de métiers dans le tableau et les classements
 - **[SnkCosmetiques](https://github.com/SnkStudio/SnkCosmetiques)** : des cosmétiques 3D à acheter avec l'argent des métiers
