@@ -92,6 +92,7 @@ Chaque métier a son fichier : on change ce qui rapporte, l'XP, l'argent, les mi
 | **Facultatif** | Vault, pour partager l'argent avec les autres plugins |
 
 **Va plus loin avec les autres plugins Snk** (facultatifs) :
+- **[SnkCosmetiques](https://github.com/SnkStudio/SnkCosmetiques)** : des cosmétiques 3D à acheter avec l'argent des métiers
 - **[SnkPass](https://github.com/SnkStudio/SnkPass)** : un pass de saison avec des missions et de l'XP de métier
 - **[SnkBoutiques](https://github.com/SnkStudio/SnkBoutiques)** : boutiques-coffres des joueurs dans le territoire de leur clan
 - **[SnkMarche](https://github.com/SnkStudio/SnkMarche)** : boutique et hôtel des ventes, avec plus d'annonces selon le niveau
